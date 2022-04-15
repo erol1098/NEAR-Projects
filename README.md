@@ -1,3 +1,6 @@
+
+[NEAR Academy Certificate Link](https://near.academy/certificate/erol1098)
+
 # NEAR-Practice Part-II
 
 [Transaction Link](https://explorer.testnet.near.org/transactions/96CfAfkvApbsAmvM8mnT4sJkK3y34Ju2iHoGAFzcZXUV)
